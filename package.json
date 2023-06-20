@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "alloytouch": "^0.3.0",
+    "swiper": "^5.4.5",
+    "vivus": "^0.4.6",
+    "vue-awesome-swiper": "^4.1.1"
+  }
+}
